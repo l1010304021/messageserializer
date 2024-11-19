@@ -2,13 +2,10 @@
 branches: {
   }
 fileChange:
-  /README.en.md:
-    newFile: !uuid 'e8d435ed01283229ac6dc4c3babb346b6304bf24'
-    oldFile: !uuid '6990da307868b4f9d4bc8a8cba168acc80138a62'
-  /README.md:
-    newFile: !uuid 'e8d435ed01283229ac6dc4c3babb346b6304bf24'
-    oldFile: !uuid 'e27a1cce0a548a0e72bbc51d93ada65c5bcd5ec6'
-gitCommitId: !uuid '0802cf2a2107516fd5204b7b7514426524a3ad35'
+  /MessageSerializer.esproj:
+    newFile: !uuid '2c1ca2da002af8188dc524bb7ca1bbbfed23815a'
+    oldFile: null
+gitCommitId: !uuid '64cde02509984d98ee9f109951c2e67b6fffe28f'
 renames: {
   }
-revisionId: 4
+revisionId: 5
