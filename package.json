@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "NodejsProject",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "compile.bat",
+    "clean": "tsc --build --clean"
+  },
+  "eslintConfig": {
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+    },
+    "plugins": [
+      "@typescript-eslint"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "nodejskernel": "^1.0.0"
+  }
+}
