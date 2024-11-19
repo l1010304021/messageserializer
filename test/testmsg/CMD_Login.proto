@@ -1,0 +1,19 @@
+﻿import "CMD_Base.proto";
+
+
+message TestMessage extend BaseMessage {
+	
+	required	uint32				x							= 10;
+	required	uint32				y							= 11;
+	required	uint32				z							= 12;
+
+	required	bigint				attack						= 20;
+	required	bigint				defense						= 21;
+	required	bigint				hp							= 22;
+	required	bigint				mp							= 23;
+}
+
+message ExtendedMessage extend TestMessage {
+
+	
+}

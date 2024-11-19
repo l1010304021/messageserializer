@@ -1,0 +1,9 @@
+﻿enum TestEnum {
+	OptionOne = 1;
+	OptionTwo = 2;
+}
+
+message BaseMessage {
+	required	boolean				success						= 1;
+	optional	string				error						= 2;
+}
