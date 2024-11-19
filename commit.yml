@@ -2,10 +2,31 @@
 branches: {
   }
 fileChange:
-  /MessageSerializer.esproj:
-    newFile: !uuid '2c1ca2da002af8188dc524bb7ca1bbbfed23815a'
+  /test:
+    newFile: !uuid 'f8ce9f8c3efeafc8a8b3ba5564e0b014132df683'
     oldFile: null
-gitCommitId: !uuid '64cde02509984d98ee9f109951c2e67b6fffe28f'
+  /test/output:
+    newFile: !uuid '6462d293ce58669471934a77d64bd0c4eece48ce'
+    oldFile: null
+  /test/output/CMD_Base.ts:
+    newFile: !uuid '2b1b1b10966d15be3c5dc947d971a1523f734dd6'
+    oldFile: null
+  /test/output/CMD_Login.ts:
+    newFile: !uuid '49a5f50c84c31c747d010d4a58c5b6c33c29ea11'
+    oldFile: null
+  /test/test.ts:
+    newFile: !uuid '61e914719f62abeab047570b5ebc9557a373637e'
+    oldFile: null
+  /test/testmsg:
+    newFile: !uuid 'a0e6150431c0c79f6fc2ae319ae055bd3c2d45d9'
+    oldFile: null
+  /test/testmsg/CMD_Base.proto:
+    newFile: !uuid 'c3d6bbf12a1296c32449d5656e85f62663599adc'
+    oldFile: null
+  /test/testmsg/CMD_Login.proto:
+    newFile: !uuid '179635748f0774dae45cb45a34ab60e1bcc543c1'
+    oldFile: null
+gitCommitId: !uuid 'a630883b7a975cc2f4d1505b0e2d8a59541aebb1'
 renames: {
   }
-revisionId: 5
+revisionId: 6
