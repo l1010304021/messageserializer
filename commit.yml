@@ -2,37 +2,16 @@
 branches: {
   }
 fileChange:
+  /compile.bat:
+    newFile: !uuid '96e559099fe3d796138d656119a6c88662504920'
+    oldFile: null
+  /compiletest.bat:
+    newFile: !uuid '5d7429989ff35cadf51fa987400a788cd2f73153'
+    oldFile: null
   /package.json:
-    newFile: !uuid 'a73c0805b7ec8c63d508fa50af3f14470f3b619d'
-    oldFile: null
-  /src:
-    newFile: !uuid 'c5cda073f7ca6dd18a4b9ea7cb909d9aa82105e3'
-    oldFile: null
-  /src/CG_TS.ts:
-    newFile: !uuid '9a92d5c579dd334250b0f26df5ee61b19664fddd'
-    oldFile: null
-  /src/Compiler.ts:
-    newFile: !uuid '4991d775f7ea91f25702186393dc4520fac40685'
-    oldFile: null
-  /src/Console.ts:
-    newFile: !uuid '32b5f170d280663b0ce7bee522b62beb47317111'
-    oldFile: null
-  /src/Exception.ts:
-    newFile: !uuid '66c2548f0d3aa5dae21fb1047550c091bb3870aa'
-    oldFile: null
-  /src/Lexer.ts:
-    newFile: !uuid '5d19a0ed9bdd1bfea7fca85689ca06853da93693'
-    oldFile: null
-  /src/Parser.ts:
-    newFile: !uuid '7c1891df1bf59314faae900e69c927d486232a6c'
-    oldFile: null
-  /src/main.ts:
-    newFile: !uuid 'f19ce762972764c04977bee012a307b366207a9f'
-    oldFile: null
-  /tsconfig.json:
-    newFile: !uuid '8809ebcf1c94f4947809707029bde98b2007a8b5'
-    oldFile: null
-gitCommitId: !uuid '223f41f0e2977b0ff594cf04b5bd4d5586eee762'
+    newFile: !uuid '1fd80a061bf4214503a5f5b09ad3764466fa5174'
+    oldFile: !uuid 'a73c0805b7ec8c63d508fa50af3f14470f3b619d'
+gitCommitId: !uuid 'fe48ea30b296c9292ab1b21c4e2fbbe2b3ec84c1'
 renames: {
   }
-revisionId: 2
+revisionId: 3
